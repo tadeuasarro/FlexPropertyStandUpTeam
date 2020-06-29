@@ -3,3 +3,4 @@
 ## Subjects to Morning Sessions
 ### Git commands
 ### Linters
+### Display property
